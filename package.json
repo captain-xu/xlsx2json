@@ -1,0 +1,11 @@
+{
+ "name": "excel2json",
+ "version": "1.0.0",
+ "private": true,
+ "scripts": {
+  "start": "node app.js"
+ },
+ "dependencies": {
+  "node-xlsx": "^0.12.1"
+ }
+}
